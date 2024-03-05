@@ -1,6 +1,6 @@
 import gitlab
 GITLAB_URL = 'https://gitlab.com/'
-GITLAB_TOKEN = 'glpat-'
+GITLAB_TOKEN = 'glpat'
 REPO_NAME = 'git_auto'
 BRANCHES = ['dev', 'test']
 FOLDERS = ['gitlab', 'github', 'bitbucket']
